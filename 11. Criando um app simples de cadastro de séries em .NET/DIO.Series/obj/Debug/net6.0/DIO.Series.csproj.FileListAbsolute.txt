@@ -1,0 +1,15 @@
+D:\Documentos\ESTUDANTE\CURSOS\DIO.ME\BOOTCAMPS\2. GFT 4 .NET\12. Criando um app simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+D:\Documentos\ESTUDANTE\CURSOS\DIO.ME\BOOTCAMPS\2. GFT 4 .NET\12. Criando um app simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\ESTUDANTE\CURSOS\DIO.ME\BOOTCAMPS\2. GFT 4 .NET\12. Criando um app simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+D:\Documentos\ESTUDANTE\CURSOS\DIO.ME\BOOTCAMPS\2. GFT 4 .NET\12. Criando um app simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+D:\Documentos\ESTUDANTE\CURSOS\DIO.ME\BOOTCAMPS\2. GFT 4 .NET\12. Criando um app simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Documentos\ESTUDANTE\CURSOS\DIO.ME\BOOTCAMPS\2. GFT 4 .NET\12. Criando um app simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+D:\Documentos\ESTUDANTE\CURSOS\DIO.ME\BOOTCAMPS\2. GFT 4 .NET\12. Criando um app simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+D:\Documentos\ESTUDANTE\CURSOS\DIO.ME\BOOTCAMPS\2. GFT 4 .NET\12. Criando um app simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+D:\Documentos\ESTUDANTE\CURSOS\DIO.ME\BOOTCAMPS\2. GFT 4 .NET\12. Criando um app simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+D:\Documentos\ESTUDANTE\CURSOS\DIO.ME\BOOTCAMPS\2. GFT 4 .NET\12. Criando um app simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+D:\Documentos\ESTUDANTE\CURSOS\DIO.ME\BOOTCAMPS\2. GFT 4 .NET\12. Criando um app simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+D:\Documentos\ESTUDANTE\CURSOS\DIO.ME\BOOTCAMPS\2. GFT 4 .NET\12. Criando um app simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net6.0\refint\DIO.Series.dll
+D:\Documentos\ESTUDANTE\CURSOS\DIO.ME\BOOTCAMPS\2. GFT 4 .NET\12. Criando um app simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+D:\Documentos\ESTUDANTE\CURSOS\DIO.ME\BOOTCAMPS\2. GFT 4 .NET\12. Criando um app simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
+D:\Documentos\ESTUDANTE\CURSOS\DIO.ME\BOOTCAMPS\2. GFT 4 .NET\12. Criando um app simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll

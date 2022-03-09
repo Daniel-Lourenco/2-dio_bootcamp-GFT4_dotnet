@@ -1,0 +1,15 @@
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\8. Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.exe
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\8. Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\8. Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\8. Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.dll
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\8. Fundamentos de Coleções e LINQ com .NET\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\8. Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\8. Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\8. Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\8. Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\8. Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\8. Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.dll
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\8. Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\refint\Colecoes.dll
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\8. Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\8. Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\8. Fundamentos de Coleções e LINQ com .NET\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll

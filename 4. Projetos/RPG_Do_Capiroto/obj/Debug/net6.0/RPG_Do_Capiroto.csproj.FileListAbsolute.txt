@@ -1,0 +1,30 @@
+C:\Users\pazot\Desktop\Help\RPG_Do_Capiroto\bin\Debug\net6.0\RPG_Do_Capiroto.exe
+C:\Users\pazot\Desktop\Help\RPG_Do_Capiroto\bin\Debug\net6.0\RPG_Do_Capiroto.deps.json
+C:\Users\pazot\Desktop\Help\RPG_Do_Capiroto\bin\Debug\net6.0\RPG_Do_Capiroto.runtimeconfig.json
+C:\Users\pazot\Desktop\Help\RPG_Do_Capiroto\bin\Debug\net6.0\RPG_Do_Capiroto.dll
+C:\Users\pazot\Desktop\Help\RPG_Do_Capiroto\bin\Debug\net6.0\RPG_Do_Capiroto.pdb
+C:\Users\pazot\Desktop\Help\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Help\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Help\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Help\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Help\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Help\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.dll
+C:\Users\pazot\Desktop\Help\RPG_Do_Capiroto\obj\Debug\net6.0\refint\RPG_Do_Capiroto.dll
+C:\Users\pazot\Desktop\Help\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.pdb
+C:\Users\pazot\Desktop\Help\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Help\RPG_Do_Capiroto\obj\Debug\net6.0\ref\RPG_Do_Capiroto.dll
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\oop_rpg-game_DIO\RPG_Do_Capiroto\bin\Debug\net6.0\RPG_Do_Capiroto.exe
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\oop_rpg-game_DIO\RPG_Do_Capiroto\bin\Debug\net6.0\RPG_Do_Capiroto.deps.json
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\oop_rpg-game_DIO\RPG_Do_Capiroto\bin\Debug\net6.0\RPG_Do_Capiroto.runtimeconfig.json
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\oop_rpg-game_DIO\RPG_Do_Capiroto\bin\Debug\net6.0\RPG_Do_Capiroto.dll
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\oop_rpg-game_DIO\RPG_Do_Capiroto\bin\Debug\net6.0\RPG_Do_Capiroto.pdb
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\oop_rpg-game_DIO\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.csproj.AssemblyReference.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\oop_rpg-game_DIO\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\oop_rpg-game_DIO\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.AssemblyInfoInputs.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\oop_rpg-game_DIO\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.AssemblyInfo.cs
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\oop_rpg-game_DIO\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.csproj.CoreCompileInputs.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\oop_rpg-game_DIO\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.dll
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\oop_rpg-game_DIO\RPG_Do_Capiroto\obj\Debug\net6.0\refint\RPG_Do_Capiroto.dll
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\oop_rpg-game_DIO\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.pdb
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\oop_rpg-game_DIO\RPG_Do_Capiroto\obj\Debug\net6.0\RPG_Do_Capiroto.genruntimeconfig.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\4. Projetos\oop_rpg-game_DIO\RPG_Do_Capiroto\obj\Debug\net6.0\ref\RPG_Do_Capiroto.dll

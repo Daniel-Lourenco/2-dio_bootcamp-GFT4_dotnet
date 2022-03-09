@@ -1,0 +1,15 @@
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\2. Primeiros passos com .NET\2. Revisão\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\2. Primeiros passos com .NET\2. Revisão\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\2. Primeiros passos com .NET\2. Revisão\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\2. Primeiros passos com .NET\2. Revisão\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\2. Primeiros passos com .NET\2. Revisão\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\2. Primeiros passos com .NET\2. Revisão\Revisao\bin\Debug\net6.0\Revisao.exe
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\2. Primeiros passos com .NET\2. Revisão\Revisao\bin\Debug\net6.0\Revisao.deps.json
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\2. Primeiros passos com .NET\2. Revisão\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\2. Primeiros passos com .NET\2. Revisão\Revisao\bin\Debug\net6.0\Revisao.dll
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\2. Primeiros passos com .NET\2. Revisão\Revisao\bin\Debug\net6.0\Revisao.pdb
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\2. Primeiros passos com .NET\2. Revisão\Revisao\obj\Debug\net6.0\Revisao.dll
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\2. Primeiros passos com .NET\2. Revisão\Revisao\obj\Debug\net6.0\refint\Revisao.dll
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\2. Primeiros passos com .NET\2. Revisão\Revisao\obj\Debug\net6.0\Revisao.pdb
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\2. Primeiros passos com .NET\2. Revisão\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
+D:\Documentos\VIDA ACADÊMICA E DEMAIS ESTUDOS\CURSOS ONLINES\DIGITAL INOVVATION ONE (DIO)\BOOTCAMPS\2. GFT 4 .NET\2. Primeiros passos com .NET\2. Revisão\Revisao\obj\Debug\net6.0\ref\Revisao.dll
